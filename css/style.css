@@ -1,0 +1,29 @@
+/*font-family: 'Source Sans Pro', sans-serif;*/
+/*font-family: 'Merriweather', serif;*/
+/*font-family: 'Oswald', sans-serif;*/
+
+
+#wrapper{
+	margin: 0 auto;
+	width: 960px
+
+}
+
+header {
+	background-color: #000;
+	min-height: 90px;
+}
+
+body{
+	/*font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Oswald', sans-serif;*/
+	margin: 0 auto;
+}
+
+header .logo {
+	font-family: 'Merriweather', serif;
+	color: yellow;
+	font-weight: 700;
+	font-size: 24px
+
+}
